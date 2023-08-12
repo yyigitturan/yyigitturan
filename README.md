@@ -100,10 +100,6 @@
 </p>
 
 
-
-
-
-
 <h3 align="left">Medium Blogs:</h3>
 <p align="center">
   <a href="https://medium.com/@yasaryigitturan">
