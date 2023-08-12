@@ -10,6 +10,11 @@
   <a href="YOUR_WEBSITE_URL">👨‍💻 My Website</a> | <a href="mailto:yasarturan@hacettepe.edu.tr">📫 Contact Me</a> | <a href="LINK_TO_EXPERIENCES">📄 Know About My Experiences</a>
 </div>
 
+<div class="content">
+  
+  <p></p>
+</div>
+
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ya%C5%9Far-yi%C4%9Fit-turan-" target="_blank">
@@ -21,7 +26,9 @@
   <a href="https://medium.com/@yasaryigitturan">Medium</a>
 </p>
 
-
+<div class="content">
+  <p></p>
+</div>
 
 <h3>Professional Tools and Technologies</h3>
 <div align="left">
@@ -96,8 +103,8 @@
 </div>
 
 <!-- Most Used Languages -->
-<div align="left">
-  <p align="left">
+<div class="content">
+  <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyigitturan&show_icons=true&locale=en&layout=compact" alt="yyigitturan" />
   </p>
 </div>
