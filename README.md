@@ -34,6 +34,23 @@
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="60" height="60"/>
   </a>
+
+  <!-- PyCharm -->
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="60" height="60"/>
+  </a>
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
+  </a>
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="60" height="60"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
+  </a>
   
   <!-- Veri Bilimi Kütüphaneleri -->
   <a href="https://www.numpy.org/" target="_blank" rel="noreferrer">
@@ -42,7 +59,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
   </a>
-  <!-- Diğer veri bilimi kütüphaneleri -->
+ 
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="60" height="60"/>
   </a>
