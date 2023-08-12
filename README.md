@@ -93,26 +93,37 @@
 </div>
 
 
-<!-- GitHub Stats and Top Languages -->
+<<!-- GitHub Stats -->
 <div align="left">
-  <h3 align="left">GitHub Stats and Top Languages:</h3>
+  <h3 align="left">GitHub Stats:</h3>
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=yyigitturan&show_icons=true&locale=en" alt="yyigitturan" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyigitturan&" alt="yyigitturan" />
+  </p>
+</div>
+<!-- Top Languages -->
+<div align="left" class="top-section">
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyigitturan&show_icons=true&locale=en&layout=compact" alt="yyigitturan" />
   </p>
 </div>
 
-<!-- Visitor Count and Medium Blogs -->
+
+<!-- Visitor Count -->
 <div class="top-section" style="text-align: left; margin-top: -20px;">
   <p>
     <img src="https://komarev.com/ghpvc/?username=yyigitturan" alt="Profile Views" width="120" height="28" />
+  </p>
+</div>
+
+<!-- Medium Blogs -->
+<div class="top-section" style="text-align: left; margin-top: -20px;">
+  <p>
     <a href="https://medium.com/@yasaryigitturan">
       <img src="https://img.shields.io/badge/medium-latest%20blogs-brightgreen" alt="Medium Blogs" width="120" height="28" />
     </a>
   </p>
 </div>
-
 
 
 
