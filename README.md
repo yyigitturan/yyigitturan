@@ -85,25 +85,28 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyigitturan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyigitturan&show_icons=true&locale=en&layout=compact" alt="yyigitturan" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yyigitturan&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yyigitturan&show_icons=true&locale=en" alt="yyigitturan" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyigitturan&" alt="yyigitturan" />
 </p>
 
-<h3 align="left">Visitors Count:</h3>
+<h3 align="left">Visitor Count:</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yyigitturan" alt="Profile Views" />
 </p>
 
-<h3 align="left">GitHub Streak:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyigitturan" alt="GitHub Streak" />
-</p>
 
-<h3 align="left">Latest Medium Blogs:</h3>
+
+
+
+
+<h3 align="left">Medium Blogs:</h3>
 <p align="center">
-  <a href="https://medium.com/@your-medium-username">
+  <a href="https://medium.com/@yasaryigitturan">
     <img src="https://img.shields.io/badge/medium-latest%20blogs-brightgreen" alt="Medium Blogs" />
   </a>
 </p>
