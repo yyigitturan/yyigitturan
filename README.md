@@ -2,25 +2,24 @@
   <h1>Hello 👋, I'm Yaşar Yiğit Turan</h1>
   <h3>Second-year student at Hacettepe University, Statistics Department</h3>   
   <p>
-    I'm an interested in Machine Learning and Data Science, currently developing my skills through passionate projects. Throughout my academic journey, I'm seamlessly combining the theoretical knowledge I've acquired with my software capabilities, resulting in an ever-evolving skill set.
-
+    I'm interested in Machine Learning and Data Science, currently developing my skills through passionate projects. Throughout my academic journey, I seamlessly combine the theoretical knowledge I've acquired with my software capabilities, resulting in an ever-evolving skill set.
+  </p>
 </div>
 
+<div align="center">
+  <a href="YOUR_WEBSITE_URL">👨‍💻 My Website</a> | <a href="mailto:yasarturan@hacettepe.edu.tr">📫 Contact Me</a> | <a href="LINK_TO_EXPERIENCES">📄 Know About My Experiences</a>
+</div>
 
-
-- 👨‍💻 My website 
-- 📫 How to reach me **yasarturan@hacettepe.edu.tr**
-
-- 📄 Know about my experiences 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ya%C5%9Far-yi%C4%9Fit-turan-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/yaaryiitturan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your-kaggle-username" height="30" width="40" /></a>
-<a href="https://medium.com/@yasaryigitturan">Medium</a>
+  <a href="https://www.linkedin.com/in/ya%C5%9Far-yi%C4%9Fit-turan-" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/yaaryiitturan" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@yasaryigitturan">Medium</a>
 </p>
-
-
 
 <h3>Professional Tools and Technologies</h3>
 <div align="left">
@@ -46,7 +45,7 @@
   
   <!-- Jupyter -->
   <a href="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="60" height="60"/>
   </a>
 
   <!-- PostgreSQL -->
@@ -84,22 +83,6 @@
   <!-- Diğer makine öğrenimi kütüphaneleri buraya eklenebilir -->
 </div>
 
-
-
-
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ya%C5%9Far-yi%C4%9Fit-turan-" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/yaaryiitturan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@yasaryigitturan">
-    Medium
-  </a>
-</p>
-
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyigitturan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
@@ -116,6 +99,13 @@
 <h3 align="left">GitHub Streak:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyigitturan" alt="GitHub Streak" />
+</p>
+
+<h3 align="left">Latest Medium Blogs:</h3>
+<p align="center">
+  <a href="https://medium.com/@your-medium-username">
+    <img src="https://img.shields.io/badge/medium-latest%20blogs-brightgreen" alt="Medium Blogs" />
+  </a>
 </p>
 
 
