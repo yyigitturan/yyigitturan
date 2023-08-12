@@ -21,8 +21,12 @@
 <a href="https://medium.com/@yasaryigitturan">Medium</a>
 </p>
 
-<h3>Profesyonel Araçlar ve Teknolojiler</h3>
-<p align="center">
+</p>
+
+</p>
+
+<h3>Professional Tools and Technologies</h3>
+<div align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
@@ -31,10 +35,7 @@
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="60" height="60"/>
   </a>
-  <!-- SPSS -->
-  <a href="https://www.ibm.com/analytics/spss-statistics-software" target="_blank" rel="noreferrer">
-    <img src="https://www.ibm.com/favicon.ico" alt="SPSS" width="60" height="60"/>
-  </a>
+  
   <!-- Veri Bilimi Kütüphaneleri -->
   <a href="https://www.numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="NumPy" width="60" height="60"/>
@@ -42,7 +43,15 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
   </a>
+  <!-- Diğer veri bilimi kütüphaneleri -->
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="60" height="60"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="60" height="60"/>
+  </a>
   <!-- Diğer veri bilimi kütüphaneleri buraya eklenebilir -->
+  
   <!-- Makine Öğrenimi Kütüphaneleri -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60"/>
@@ -51,8 +60,10 @@
     <img src="https://www.tensorflow.org/favicon.ico" alt="TensorFlow" width="60" height="60"/>
   </a>
   <!-- Diğer makine öğrenimi kütüphaneleri buraya eklenebilir -->
-</p>
 </div>
+
+
+
 
 
 
