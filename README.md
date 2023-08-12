@@ -83,30 +83,28 @@
   <!-- Diğer makine öğrenimi kütüphaneleri buraya eklenebilir -->
 </div>
 
+
+<!-- GitHub Stats -->
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yyigitturan&show_icons=true&locale=en" alt="yyigitturan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyigitturan&" alt="yyigitturan" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyigitturan&show_icons=true&locale=en&layout=compact" alt="yyigitturan" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yyigitturan&show_icons=true&locale=en" alt="yyigitturan" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyigitturan&" alt="yyigitturan" />
-</p>
 
+<!-- Visitor Count -->
 <h3 align="left">Visitor Count:</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yyigitturan" alt="Profile Views" />
 </p>
 
-
+<!-- Medium Blogs -->
 <h3 align="left">Medium Blogs:</h3>
 <p align="center">
   <a href="https://medium.com/@yasaryigitturan">
     <img src="https://img.shields.io/badge/medium-latest%20blogs-brightgreen" alt="Medium Blogs" />
   </a>
 </p>
-
 
 <!--
 **yyigitturan/yyigitturan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
