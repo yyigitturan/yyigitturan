@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello 👋, I'm Yaşar Yiğit Turan</h1>
-  <h3>Second-year student at Hacettepe University, Statistics Department</h3>
+  <h3>Second-year student at Hacettepe University, Statistics Department</h3>   
   <p>
     I'm an interested in Machine Learning and Data Science, currently developing my skills through passionate projects. Throughout my academic journey, I'm seamlessly combining the theoretical knowledge I've acquired with my software capabilities, resulting in an ever-evolving skill set.
 
@@ -87,7 +87,36 @@
 
 
 
+<h3 align="left">Connect with Me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ya%C5%9Far-yi%C4%9Fit-turan-" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/yaaryiitturan" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@yasaryigitturan">
+    Medium
+  </a>
+</p>
 
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyigitturan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yyigitturan&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<h3 align="left">Visitors Count:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yyigitturan" alt="Profile Views" />
+</p>
+
+<h3 align="left">GitHub Streak:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyigitturan" alt="GitHub Streak" />
+</p>
 
 
 <!--
