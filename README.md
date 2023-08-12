@@ -8,11 +8,10 @@
 
 
 
-- 👨‍💻 My website [your-website-link]
-
+- 👨‍💻 My website 
 - 📫 How to reach me **yasarturan@hacettepe.edu.tr**
 
-- 📄 Know about my experiences [your-cv-link]
+- 📄 Know about my experiences 
 
 <h3 align="left">Explore My Social Channels:</h3>
 <p align="left">
