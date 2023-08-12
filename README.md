@@ -21,15 +21,40 @@
 <a href="https://medium.com/@yasaryigitturan">Medium</a>
 </p>
 
-  <h3>Languages and Tools</h3>
-  <p>
-     <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-
-
-    
-  </p>
-  <!-- Repeat for other tools and languages -->
+<h3>Profesyonel Araçlar ve Teknolojiler</h3>
+<p align="center">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  </a>
+  <!-- R -->
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="60" height="60"/>
+  </a>
+  <!-- SPSS -->
+  <a href="https://www.ibm.com/analytics/spss-statistics-software" target="_blank" rel="noreferrer">
+    <img src="https://www.ibm.com/favicon.ico" alt="SPSS" width="60" height="60"/>
+  </a>
+  <!-- Veri Bilimi Kütüphaneleri -->
+  <a href="https://www.numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="NumPy" width="60" height="60"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
+  </a>
+  <!-- Diğer veri bilimi kütüphaneleri buraya eklenebilir -->
+  <!-- Makine Öğrenimi Kütüphaneleri -->
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.tensorflow.org/favicon.ico" alt="TensorFlow" width="60" height="60"/>
+  </a>
+  <!-- Diğer makine öğrenimi kütüphaneleri buraya eklenebilir -->
 </p>
+</div>
+
+
 
 
 <!--
