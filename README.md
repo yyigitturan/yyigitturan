@@ -99,16 +99,8 @@
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=yyigitturan&show_icons=true&locale=en" alt="yyigitturan" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyigitturan&" alt="yyigitturan" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyigitturan&show_icons=true&locale=en&layout=compact" alt="yyigitturan" />
   </p>
 </div>
-
-<div align="left" class="top-section">
-  <p align="left">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyigitturan&show_icons=true&locale=en&layout=compact" alt="yyigitturan" />
-  </p>
-</div>
-
 <!-- Visitor Count -->
 <div class="top-section" style="text-align: left; margin-top: -20px;">
   <p>
