@@ -10,7 +10,7 @@
   <a href="YOUR_WEBSITE_URL">👨‍💻 My Website</a> | <a href="mailto:yasarturan@hacettepe.edu.tr">📫 Contact Me</a> | <a href="LINK_TO_EXPERIENCES">📄 Know About My Experiences</a>
 </div>
 
-<h3 align="left">Connect with Me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ya%C5%9Far-yi%C4%9Fit-turan-" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -20,6 +20,8 @@
   </a>
   <a href="https://medium.com/@yasaryigitturan">Medium</a>
 </p>
+
+
 
 <h3>Professional Tools and Technologies</h3>
 <div align="left">
@@ -85,26 +87,46 @@
 
 
 <!-- GitHub Stats -->
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yyigitturan&show_icons=true&locale=en" alt="yyigitturan" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyigitturan&" alt="yyigitturan" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyigitturan&show_icons=true&locale=en&layout=compact" alt="yyigitturan" />
-</p>
+<div align="left">
+  <h3 align="left">GitHub Stats:</h3>
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=yyigitturan&show_icons=true&locale=en" alt="yyigitturan" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyigitturan&" alt="yyigitturan" />
+  </p>
+</div>
+
+<!-- Most Used Languages -->
+<div align="left">
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyigitturan&show_icons=true&locale=en&layout=compact" alt="yyigitturan" />
+  </p>
+</div>
 
 <!-- Visitor Count -->
-<h3 align="left">Visitor Count:</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yyigitturan" alt="Profile Views" />
-</p>
+<div class="top-section" style="text-align: left; margin-top: -20px;">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=yyigitturan" alt="Profile Views" width="120" height="28" />
+  </p>
+</div>
 
 <!-- Medium Blogs -->
-<h3 align="left">Medium Blogs:</h3>
-<p align="center">
-  <a href="https://medium.com/@yasaryigitturan">
-    <img src="https://img.shields.io/badge/medium-latest%20blogs-brightgreen" alt="Medium Blogs" />
-  </a>
-</p>
+<div class="top-section" style="text-align: left; margin-top: -20px;">
+  <p>
+    <a href="https://medium.com/@yasaryigitturan">
+      <img src="https://img.shields.io/badge/medium-latest%20blogs-brightgreen" alt="Medium Blogs" width="120" height="28" />
+    </a>
+  </p>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **yyigitturan/yyigitturan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
