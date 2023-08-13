@@ -8,8 +8,11 @@
 </div>
 
 <div align="center">
-  <a href="YOUR_WEBSITE_URL">👨‍💻 My Website</a> | <a href="mailto:yasarturan@hacettepe.edu.tr">📫 Contact Me</a> | <a href="LINK_TO_EXPERIENCES">📄 Know About My Experiences</a>
+  <a href="https://yyigitturan.github.io">👨‍💻 My Website</a> |
+  <a href="mailto:yasarturan@hacettepe.edu.tr">📫 Contact Me</a> |
+  <a href="LINK_TO_EXPERIENCES">📄 Know About My Experiences</a>
 </div>
+
 
 <div class="content">
   
