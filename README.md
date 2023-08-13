@@ -31,7 +31,7 @@
   <p></p>
 </div>
 
-<h3>Professional Tools and Technologies</h3>
+<h3>Tools and Technologies</h3>
 <div align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
