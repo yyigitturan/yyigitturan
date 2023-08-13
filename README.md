@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="photo.png" alt="KOÜ Görseli" />
+  <img src="photo.jpeg" alt="KOÜ Görseli" />
 </div>
 
 <div align="center">
