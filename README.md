@@ -1,4 +1,7 @@
 
+<img alt="Resim Açıklaması" src="photo.jpeg" />
+
+
 <div align="center">
   <h1>Hello 👋, I'm Yaşar Yiğit Turan</h1>
   <h3>Second-year student at Hacettepe University, Statistics Department</h3>   
