@@ -103,11 +103,17 @@
 
 
 
- <!-- GitHub Stats -->
+<!-- GitHub Stats -->
 <div align="left">
   <h3 align="left">GitHub Stats:</h3>
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=yyigitturan&show_icons=true&locale=en&theme=algolia" alt="yyigitturan's GitHub Stats" />
+  </p>
+</div>
+
+<!-- GitHub Streak -->
+<div align="left">
+  <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyigitturan&theme=algolia" alt="yyigitturan's GitHub Streak" />
   </p>
 </div>
