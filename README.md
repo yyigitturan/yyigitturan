@@ -94,7 +94,7 @@
 </div>
 
 
-<<!-- GitHub Stats -->
+<!-- GitHub Stats -->
 <div align="left">
   <h3 align="left">GitHub Stats:</h3>
   <p align="left">
