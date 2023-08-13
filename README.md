@@ -97,37 +97,43 @@
 </div>
 
 
-<!-- GitHub Stats -->
+
+
+ <!-- GitHub Stats -->
 <div align="left">
   <h3 align="left">GitHub Stats:</h3>
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=yyigitturan&show_icons=true&locale=en" alt="yyigitturan" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyigitturan&" alt="yyigitturan" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yyigitturan&show_icons=true&locale=en&theme=algolia" alt="yyigitturan's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyigitturan&theme=algolia" alt="yyigitturan's GitHub Streak" />
   </p>
 </div>
 <!-- Top Languages -->
-<div align="left" class="top-section">
+<div align="left">
+  
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyigitturan&show_icons=true&locale=en&layout=compact" alt="yyigitturan" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyigitturan&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yyigitturan's Top Languages" />
   </p>
 </div>
-
-
 <!-- Visitor Count -->
 <div class="top-section" style="text-align: left; margin-top: -20px;">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=yyigitturan" alt="Profile Views" width="120" height="28" />
+    <img src="https://komarev.com/ghpvc/?username=yyigitturan&theme=algolia" alt="Profile Views" width="120" height="28" />
   </p>
 </div>
-
 <!-- Medium Blogs -->
 <div class="top-section" style="text-align: left; margin-top: -20px;">
   <p>
-    <a href="https://medium.com/@yasaryigitturan">
+    <a href="https://medium.com/@yyigitturan">
       <img src="https://img.shields.io/badge/medium-latest%20blogs-brightgreen" alt="Medium Blogs" width="120" height="28" />
     </a>
   </p>
 </div>
+
+
+
+
+
+
 
 
 
