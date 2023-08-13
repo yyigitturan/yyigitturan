@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="zyro-image.png" alt="KOÜ Görseli" />
+  <img src="photo.png" alt="KOÜ Görseli" />
 </div>
 
 <div align="center">
