@@ -20,19 +20,23 @@
 </div>
 
 <h3 align="left">Connect With Me:</h3>
-<p align="left">
+
+<div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/ya%C5%9Far-yi%C4%9Fit-turan-" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/yaaryiitturan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+    <img alt="Kaggle" src="https://img.shields.io/badge/kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://medium.com/@yasaryigitturan">Medium</a>
-</p>
-
-<div class="content">
-  <p></p>
+  <a href="https://medium.com/@yasaryigitturan" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </div>
+
+
+
+
+
 
 <h3>Tools and Technologies</h3>
 <div align="left">
