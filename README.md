@@ -1,3 +1,6 @@
+<div style="text-align: center;">
+  <img src="photo (2).png" alt="KOÜ Görseli" />
+</div>
 
 <div align="center">
   <h1>Hello 👋, I'm Yaşar Yiğit Turan</h1>
