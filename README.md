@@ -31,9 +31,21 @@
   <a href="https://www.kaggle.com/yaaryiitturan" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+
+  <a href="https://twitter.com/yigitturan_" target="_blank">
+  <img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
   <a href="https://medium.com/@yasaryigitturan" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+<a href="https://www.instagram.com/yigituran/" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/instagram-FF0062.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+
+
+
+
 </div>
 
 
