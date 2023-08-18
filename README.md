@@ -150,7 +150,7 @@
   </p>
 </div>
 <!-- Medium Blogs -->
-<div class="top-section" style="text-align: left; margin-top: -20px;">
+<!--<div class="top-section" style="text-align: left; margin-top: -20px;">
   <p>
     <a href="https://medium.com/@yasaryigitturan">
       <img src="https://img.shields.io/badge/medium-latest%20blogs-brightgreen" alt="Medium Blogs" width="120" height="28" />
