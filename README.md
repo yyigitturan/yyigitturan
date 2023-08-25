@@ -121,10 +121,15 @@
 
 
 
+<br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
 <!-- GitHub Stats -->
 <div align="left">
-  <h3 align="left">GitHub Stats:</h3>
+  
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=yyigitturan&show_icons=true&locale=en&theme=algolia" alt="yyigitturan's GitHub Stats" />
   </p>
