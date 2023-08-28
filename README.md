@@ -128,12 +128,9 @@
 <br>
 
 <!-- GitHub Stats -->
-<div align="left">
-  
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=yyigitturan&show_icons=true&locale=en&theme=algolia" alt="yyigitturan's GitHub Stats" />
-  </p>
-</div>
+
+![Yigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyigitturan&theme=algolia&show_icons=true)
+
 
 <!-- GitHub Streak -->
 <div align="left">
@@ -148,6 +145,18 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yyigitturan&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yyigitturan's Top Languages" />
   </p>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Visitor Count -->
 <div class="top-section" style="text-align: left; margin-top: -20px;">
   <p>
