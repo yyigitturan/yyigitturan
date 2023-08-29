@@ -46,7 +46,10 @@
   <img alt="Instagram" src="https://img.shields.io/badge/instagram-FF0062.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-
+  </a>
+    <a href="YOUR_SPOTIFY_PROFILE_LINK_HERE" target="_blank">
+        <img alt="Spotify" src="https://img.shields.io/badge/spotify-1ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
+    </a>
 
 
 
