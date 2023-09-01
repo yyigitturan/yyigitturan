@@ -45,14 +45,14 @@
 <a href="https://www.instagram.com/yigituran/" target="_blank">
   <img alt="Instagram" src="https://img.shields.io/badge/instagram-FF0062.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<a href="https://leetcode.com/yyigitturan/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/leetcode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
+
 
   </a>
     <a href="https://open.spotify.com/user/taod8p4vvim7ua00abdamnslp?si=qK06HrFQSe2ZjKPNXFhvhg&utm_source=copy-link" target="_blank">
         <img alt="Spotify" src="https://img.shields.io/badge/spotify-1ED760.svg?&style=for-the-badge&logo=spotify&logoColor=black" />
     </a>
-
-<a href="https://leetcode.com/yyigitturan/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/leetcode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
 
 
 
