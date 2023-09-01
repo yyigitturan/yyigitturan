@@ -51,6 +51,9 @@
         <img alt="Spotify" src="https://img.shields.io/badge/spotify-1ED760.svg?&style=for-the-badge&logo=spotify&logoColor=black" />
     </a>
 
+<a href="https://leetcode.com/yyigitturan/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/leetcode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
+
 
 
 </div>
