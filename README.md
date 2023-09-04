@@ -21,8 +21,13 @@
   
   <p></p>
 </div>
+<h3 align="left">
+ <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
+ Connect With Me:
+ <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
+</h3> 
 
-<h3 align="left">Connect With Me:</h3>
+<h3 align="left"></h3>
 
 <div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/ya%C5%9Far-yi%C4%9Fit-turan-" target="_blank">
@@ -169,6 +174,14 @@
     <img src="https://komarev.com/ghpvc/?username=yyigitturan&theme=algolia" alt="Profile Views" width="120" height="28" />
   </p>
 </div>
+
+
+
+
+
+
+
+
 <!-- Medium Blogs -->
 <!--<div class="top-section" style="text-align: left; margin-top: -20px;">
   <p>
