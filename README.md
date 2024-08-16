@@ -1,5 +1,5 @@
 
-<img alt="Resim Açıklaması" src="photo.jpeg" />
+<img alt="Resim Açıklaması" src="DS.png" />
 
 
 <div align="center">
