@@ -43,9 +43,7 @@
   <a href="https://medium.com/@yasaryigitturan" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-<a href="https://discord.gg/S4EFPJcd" target="_blank">
-  <img alt="Discord" src="https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+
 
 
 <a href="https://leetcode.com/yyigitturan/" target="_blank">
