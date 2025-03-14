@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://yyigitturan.github.io">👨‍💻 My Website</a> |
   <a href="mailto:yasarturan@hacettepe.edu.tr">📫 Contact Me</a> |
-  <a href="[LINK_TO_EXPERIENCES](https://github.com/yyigitturan/yyigitturan.github.io/blob/main/resume.pdf)">📄 Know About My Experiences</a>
+  <a href="https://github.com/yyigitturan/yyigitturan.github.io/blob/main/resume.pdf">📄 Know About My Experiences</a>
 </div>
 
 
