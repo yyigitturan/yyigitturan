@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Hello 👋, I'm Yiğit </h1>
-  <h3>Junior student at Hacettepe University, Statistics Department</h3>   
+  <h3>Senior student at Hacettepe University, Statistics Department</h3>   
   <p>
     I'm currently developing my skills through passionate projects. Throughout my academic journey, I seamlessly combine the theoretical knowledge I've acquired with my software capabilities, resulting in an ever-evolving skill set.
   </p>
