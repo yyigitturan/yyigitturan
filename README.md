@@ -19,13 +19,7 @@
 
 <div class="content">
   
-  <p></p>
-</div>
-<h3 align="left">
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
- Connect With Me:
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
-</h3> 
+
 
 <h3 align="left"></h3>
 
