@@ -1,155 +1,70 @@
-
-<img alt="Resim Açıklaması" src="DS.png" />
-
+<img src="DS.png" alt="Data Science Banner" style="width:100%;" />
 
 <div align="center">
-  <h1>Hello 👋, I'm Yiğit </h1>
-  <h3>Senior student at Hacettepe University, Statistics Department</h3>   
+  <h1>Hi, I'm Yiğit 👋</h1>
+  <h3>Senior Student | Data Scientist in Progress | AI & ML Enthusiast</h3>
   <p>
-    I'm currently developing my skills through passionate projects. Throughout my academic journey, I seamlessly combine the theoretical knowledge I've acquired with my software capabilities, resulting in an ever-evolving skill set.
+    Passionate about turning data into actionable insights. As a senior undergraduate at Hacettepe University, I bridge the gap between statistical theory and real-world problem solving through hands-on projects in machine learning, AI, and data visualization.
   </p>
 </div>
 
 <div align="center">
-  <a href="https://yyigitturan.github.io">👨‍💻 My Website</a> |
-  <a href="mailto:yasarturan@hacettepe.edu.tr">📫 Contact Me</a> |
-  <a href="https://github.com/yyigitturan/yyigitturan.github.io/blob/main/resume.pdf">📄 Know About My Experiences</a>
+  <a href="https://yyigitturan.github.io">🌐 Portfolio</a> |
+  <a href="mailto:yasarturan@hacettepe.edu.tr">📬 Email</a> |
+  <a href="https://github.com/yyigitturan/yyigitturan.github.io/blob/main/resume.pdf">📄 Résumé</a>
 </div>
 
-
-<div class="content">
-  
+---
 
 
-<h3 align="left"></h3>
+
+### 🔗 Connect With Me
 
 <div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/ya%C5%9Far-yi%C4%9Fit-turan-" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.kaggle.com/yaaryiitturan" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-
-  <a href="https://twitter.com/yigitturan_" target="_blank">
-  <img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
   <a href="https://medium.com/@yasaryigitturan" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://leetcode.com/yyigitturan/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 
-
-
-<a href="https://leetcode.com/yyigitturan/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/leetcode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
-
-
+  <a href="https://open.spotify.com/user/taod8p4vvim7ua00abdamnslp" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify" />
   </a>
-    <a href="https://open.spotify.com/user/taod8p4vvim7ua00abdamnslp?si=qK06HrFQSe2ZjKPNXFhvhg&utm_source=copy-link" target="_blank">
-        <img alt="Spotify" src="https://img.shields.io/badge/spotify-1ED760.svg?&style=for-the-badge&logo=spotify&logoColor=black" />
-    </a>
-
-
-
 </div>
 
+---
+
+### 🛠️ Tech Stack
 
 
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?&style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?&style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6.svg?&style=for-the-badge&logo=scipy&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-00274C.svg?&style=for-the-badge&logo=ibm&logoColor=white)
+![Minitab](https://img.shields.io/badge/Minitab-006747.svg?&style=for-the-badge&logo=minitab&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white)
 
-
-
-<h3>Tools and Technologies</h3>
-<div align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  </a>
-  
-  <!-- R -->
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="60" height="60"/>
-  </a>
-
-  <!-- PyCharm -->
-  <a href="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="60" height="60"/>
-  </a>
-
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
-  </a>
-  
-  <!-- Jupyter -->
-  <a href="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="60" height="60"/>
-  </a>
-
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="60" height="60"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
-  </a>
-
-  <!-- Veri Bilimi Kütüphaneleri -->
-  <a href="https://www.numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="NumPy" width="60" height="60"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
-  </a>
-  <!-- Matplotlib -->
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="60" height="60"/>
-  </a>
-
-
-
-  <!-- Plotly -->
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="Plotly" width="60" height="60"/>
-  </a>
-
-
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="60" height="60"/>
-  </a>
-  <!-- Diğer veri bilimi kütüphaneleri buraya eklenebilir -->
-  
-  <!-- Makine Öğrenimi Kütüphaneleri -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.tensorflow.org/favicon.ico" alt="TensorFlow" width="60" height="60"/>
-  </a>
- <!-- Keras -->
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="60" height="60"/>
-  </a>
-
-  <!-- PyTorch -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60"/>
-  </a>
-
-  <!-- OpenCV -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" height="60"/>
-  </a>
-
-
-  
-  <!-- Diğer makine öğrenimi kütüphaneleri buraya eklenebilir -->
-
-</div>
-
-
+---
 
 <br>
 
