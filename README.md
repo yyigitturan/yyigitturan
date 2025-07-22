@@ -14,7 +14,7 @@
   <a href="https://github.com/yyigitturan/yyigitturan.github.io/blob/main/resume.pdf">📄 Résumé</a>
 </div>
 
----
+
 
 
 
@@ -39,7 +39,7 @@
   </a>
 </div>
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -64,7 +64,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white)
 
----
+
 
 <br>
 
@@ -93,22 +93,12 @@
 
 
 
-
-
-
-
-
-
-
-
-
 <!-- Visitor Count -->
 <div class="top-section" style="text-align: left; margin-top: -20px;">
   <p>
     <img src="https://komarev.com/ghpvc/?username=yyigitturan&theme=algolia" alt="Profile Views" width="120" height="28" />
   </p>
 </div>
-
 
 
 
