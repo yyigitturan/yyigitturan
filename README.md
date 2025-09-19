@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://yyigitturan.github.io">🌐 Portfolio</a> |
   <a href="mailto:yasarturan@hacettepe.edu.tr">📬 Email</a> |
-  <a href="https://github.com/yyigitturan/yyigitturan.github.io/blob/main/resume.pdf">📄 Résumé</a>
+
 </div>
 
 
